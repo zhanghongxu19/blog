@@ -46,7 +46,7 @@ TCP使用滑动窗口做流量控制和乱序重排
 
 窗口数据的计算过程
 
-![滑动窗口](img/sliding_window.jpg)
+![滑动窗口](./img/sliding_window.jpg)
 
 发送端：
 - LastByteAcked: 已经收到ack的位置
